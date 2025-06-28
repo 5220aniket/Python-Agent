@@ -32,6 +32,9 @@ CLI:
 python main.py
 ```
 
+## Drive Link
+https://drive.google.com/drive/folders/18f5SzXISe3Ofwz1QuOH8jfgU9CNneRt8?usp=sharing
+
 Web Interface:
 ```bash
 python app.py
